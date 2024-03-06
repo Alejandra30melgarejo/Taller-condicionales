@@ -21,4 +21,5 @@ elif y < 0:
     print("la coordenada" ,(x , y),"esta en el cuadrante 3")
 else:
     print("la coordenada" ,(x , y),"esta en el cuadrante 2")
+    
         
