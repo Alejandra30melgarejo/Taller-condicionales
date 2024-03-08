@@ -12,3 +12,4 @@ if salario >= 945200:
         print("su prestamo ha sido denegado")
 elif salario < 945200:
     print("su prestamo ha sido denegado")
+    
